@@ -4,7 +4,7 @@ import pymongo
 #client = pymongo.MongoClient("mongodb+srv://ineuron:ineuron1@cluster0.goi2j.mongodb.net/?retryWrites=true&w=majority")
 #db = client.test
 
-client = pymongo.MongoClient("mongodb+srv://cssumit1:admin@ineuron.raxmhn5.mongodb.net/?retryWrites=true&w=majority")
+client = pymongo.MongoClient("mongodb+srv://cssumit1:admin@<password>.raxmhn5.mongodb.net/?retryWrites=true&w=majority")
 db = client.test
 
 data = {
